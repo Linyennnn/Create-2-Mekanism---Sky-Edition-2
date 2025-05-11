@@ -1,0 +1,16 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "kubejs:crash_site", x: -1, y: 65, z: 0, time: 1746890454777L, xRot: 43.800083f, yRot: 108.18201f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "kubejs:crash_site", x: 8, y: 65, z: 3, time: 1746871868702L }
+		{ dim: "kubejs:crash_site", x: 9, y: 66, z: 12, time: 1746875739242L }
+		{ dim: "kubejs:crash_site", x: -7, y: 52, z: 7, time: 1746879594595L }
+		{ dim: "kubejs:crash_site", x: -8, y: 59, z: 5, time: 1746880860495L }
+	]
+	homes: { }
+	kit_use_times: { }
+}

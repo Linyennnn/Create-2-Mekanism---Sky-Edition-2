@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "kubejs:crash_site", x: 9, y: 65, z: 4, time: 1746868231941L, xRot: 15.599997f, yRot: 154.39844f }
+	recording: "none"
+	teleport_history: [{ dim: "kubejs:crash_site", x: 10, y: 65, z: 10, time: 1746865474057L }]
+	homes: { }
+	kit_use_times: { }
+}
